@@ -5,7 +5,6 @@ import UserContextProvider from './Context/UserContextProvider'
 
 function App() {
   
-
   return (
     <UserContextProvider>
       <h1>context api</h1>
